@@ -1,3 +1,3 @@
-Curso de React en Udemy
+# Curso-React-HooksYMern
 
-Daniel Andres Rodriguez Flores, Dic 2020.
+Repositorio del curso de React en Udemy
